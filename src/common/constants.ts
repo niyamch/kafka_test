@@ -1,0 +1,7 @@
+export const AWS_REGION = 'AWS_REGION';
+export const AWS_SECRET_NAME = 'AWS_SECRET_NAME';
+export const BROKER_URL = 'BROKER_URL';
+export const KAFKA_API_KEY = 'KAFKA_API_KEY';
+export const KAFKA_API_SECRET = 'KAFKA_API_SECRET';
+export const NODE_ENV = 'NODE_ENV';
+export const KAFKA_PRODUCER_SERVICE = 'KAFKA_PRODUCER_SERVICE';
